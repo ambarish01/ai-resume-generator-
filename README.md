@@ -171,9 +171,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-- **Issues**: Please report bugs via [GitHub Issues](https://github.com/ambarish01/ai-resume-generator/issues)
+- **Issues**: Please report bugs via [GitHub Issues](https://github.com/yourusername/ai-resume-generator/issues)
 - **Email**: ambarishsa10@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **LinkedIn**: [Ambarish S A](www.linkedin.com/in/ambarish-s-a-5b52ba247)
 
 ## ⭐ Star This Repository
 
@@ -181,6 +181,6 @@ If you find this project helpful, please give it a star! It helps others discove
 
 ---
 
-**Made with ❤️ and AI**
+**Built with AI**
 
 *Empowering job seekers with AI-powered resume optimization*
