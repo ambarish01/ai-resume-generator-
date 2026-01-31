@@ -172,7 +172,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact & Support
 
 - **Issues**: Please report bugs via [GitHub Issues](https://github.com/yourusername/ai-resume-generator/issues)
-- **Email**: your.email@example.com
+- **Email**: ambarishsa10@gmail.com
 - **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
 
 ## ⭐ Star This Repository
